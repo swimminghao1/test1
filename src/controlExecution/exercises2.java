@@ -13,6 +13,11 @@ public class exercises2 {
             if (i<j) System.out.println(i+"<"+j);
             else if (i>j) System.out.println(i+">"+j);
             else System.out.println(i+"="+j);
+            System.out.println("testgit");
+            System.out.println("testgit");
+            System.out.println("testgit");
+            System.out.println("testgit");
+            System.out.println("testgit");
         }
 
     }
